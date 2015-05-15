@@ -1,4 +1,8 @@
-## creative commons
+# cover.jpg and cover_small.jpg
+The above mentioned files are copyrighted by a 3rd party and are not included under the Creative Commons BY-CA-4.0
+    license. They can not be republished or modified.
+
+All other files and documents are covered under the following license:
 
 # Attribution-ShareAlike 4.0 International
 
