@@ -24,8 +24,11 @@
 * [Day 21 - Making The Food Look Good](day21.md)
 * [Day 22 - Soup](day22.md)
 * [Day 23 - Getting Creative](day23.md)
-* [Day 24]
-* [Day 25]
-* [Day 26]
-* [Day 27]
+* [Day 24 - Interlude](day24.md)
+* [Day 25 - Raw Foods](day25.md)
+* [Day 26 - Slow Foods](day26.md)
+* [Day 27 - Cooking Under Pressure](day27.md)
 * [Day 28 - Celebrating With a Dinner Party](day28.md)
+* [Index](index.md)
+* [Grain Cooking Times](grains.md)
+* [Bean Cooking Times](beans.md)
