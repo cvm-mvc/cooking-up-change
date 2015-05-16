@@ -32,3 +32,4 @@
 * [Index](index.md)
 * [Grain Cooking Times](grains.md)
 * [Bean Cooking Times](beans.md)
+
