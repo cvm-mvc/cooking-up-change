@@ -1,7 +1,31 @@
 # Summary
 
 * [Introduction](README.md)
-* [Day 1](day1.md)
-* [Day 2](day2.md)
-* [Day 3](day3.md)
-
+* [Day 01 - Understanding Our Goals](day01.md)
+* [Day 02 - Moving Mountains, One Rock At A Time](day02.md)
+* [Day 03 - Stocking and Organizing Your Pantry](day03.md)
+* [Day 04 - How To Shop For Groceries](day04.md)
+* [Day 05 - Kitchen Tools](day05.md)
+* [Day 06 - Interlude](day06.md)
+* [Day 07 - How To Use Your Knife](day07.md)
+* [Day 08 - Cutting and Sautéeing](day08.md)
+* [Day 09 - Roasting Vegetables](day09.md)
+* [Day 10 - Interlude](day10.md)
+* [Day 11 - Flavour Combining](day11.md)
+* [Day 12 - How abd When to Use Spices](day12.md)
+* [Day 13 - The Makings of a Perfect Vinaigrette](day13.md)
+* [Day 14 - Nutritional Guidelines](day14.md)
+* [Day 15 - Jedi Mind Tricks; or How To Get Your Kids To Eat Their Broccoli](day15.md)
+* [Day 16 - Interlude](day16.md)
+* [Day 17 - Cooking Without Recipes](day17.md)
+* [Day 18 - When To Add Ingredients](day18.md)
+* [Day 19 - Bringing Dishes Back From The Dead](day19,md)
+* [Day 20 - Time Management for Aspiring Chefs](day20.md)
+* [Day 21 - Making The Food Look Good](day21.md)
+* [Day 22 - Soup](day22.md)
+* [Day 23 - Getting Creative](day23.md)
+* [Day 24]
+* [Day 25]
+* [Day 26]
+* [Day 27]
+* [Day 28 - Celebrating With a Dinner Party](day28.md)
