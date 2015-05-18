@@ -12,9 +12,17 @@ Often referring to simply grilling food, usually over charcoal or a live flame. 
 
 # Baste
 
+Basting is a cooking technique that involves cooking food with either its own juices or some type of preparation such as a sauce or marinade. It is then left to cook, then periodically coated with the juice.
+
 # Batter
 
+To coat food in a semiliquid mixture often made of flour, and water or milk, prior to baking or frying.
+
+Alternatively, it may refer to the mixture of ingredients when making a cake, before the cake is baked.
+
 # Beat
+
+To stir vigorously with a fork, whisk, or beater to make a smooth or frothy mixture.
 
 # Blanch
 
