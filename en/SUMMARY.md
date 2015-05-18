@@ -30,6 +30,7 @@
 * [Day 27 - Cooking Under Pressure](day27.md)
 * [Day 28 - Celebrating With a Dinner Party](day28.md)
 * [Index](index.md)
-* [Grain Cooking Times](grains.md)
-* [Bean Cooking Times](beans.md)
+* [Glossary](GLOSSARY.md)
+* [Appendix A - Grain Cooking Times](grains.md)
+* [Appendix B - Bean Cooking Times](beans.md)
 
