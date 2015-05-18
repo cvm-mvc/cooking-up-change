@@ -113,7 +113,7 @@ To soak dried fruits in liquid until they swell.
 # Poach
 To cook something gently in hot liquid kept just below the boiling point.
 
-# Puree
+# Purée
 To mash foods until perfectly smooth by hand, by rubbing through a sieve or food mill, or by whirling in a blender or food processor.
 
 # Reduce
