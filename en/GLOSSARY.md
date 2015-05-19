@@ -26,6 +26,8 @@ To stir vigorously with a fork, whisk, or beater to make a smooth or frothy mixt
 
 # Blanch
 
+To immerse vegetables or other foods in boiling water for a short period of time.  This does not cook them through, but is often done prior to freezing, to help make the peel easier to remove, or to shorten the cooking time. 
+
 # Blend
 
 # Boil
