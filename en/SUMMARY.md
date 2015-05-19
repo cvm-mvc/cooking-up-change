@@ -12,7 +12,7 @@
 * [Day 09 - Roasting Vegetables](day09.md)
 * [Day 10 - Interlude](day10.md)
 * [Day 11 - Flavour Combining](day11.md)
-* [Day 12 - How abd When to Use Spices](day12.md)
+* [Day 12 - How and When to Use Spices](day12.md)
 * [Day 13 - The Makings of a Perfect Vinaigrette](day13.md)
 * [Day 14 - Nutritional Guidelines](day14.md)
 * [Day 15 - Jedi Mind Tricks; or How To Get Your Kids To Eat Their Broccoli](day15.md)
